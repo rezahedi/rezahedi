@@ -4,7 +4,7 @@ I'm Reza🦈, an experienced web developer with over 8 years of expertise encomp
 
 I'm open to any kind of related ideas, so let me know if you have anything in mind.
 
-I've created this README repository to publicly challenge myself to commit and contribute to any interesting projects, whether for my portfolio or other open-sourced initiatives, for a month. I'll be writing code, even as less as for half an hour daily, for 30 days. Then I'll extend it to one year.
+I've created this README repository to publicly challenge myself to commit and contribute to interesting projects, whether for my portfolio or other open-source initiatives, for a year in a row. I'll be writing code, reviewing or contributing to various projects throughout this period. After that I'll look back and review my skills levels.
 
 Here is my Github contribution streak badge:
 
